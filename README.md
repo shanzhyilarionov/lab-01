@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Shangzhi Ilarionov`
+- **CCID:** `shangzh5`
 
 ## References and Resources
 
